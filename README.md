@@ -1,34 +1,66 @@
 <h1 align="center">Hi 👋, I'm Alok Kumar</h1>
-<h3 align="center">A passionate Backend And AI/ML developer from India</h3>
+<h3 align="center">🚀 Backend Developer | 🤖 AI/ML Enthusiast | 🌍 From India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ak5588&label=Profile%20views&color=0e75b6&style=flat" alt="ak5588" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ak5588" alt="ak5588" /></a> </p>
+### 👨‍💻 About Me
+- 🌱 Currently learning **NLP & Data Science in depth**  
+- 🧑‍🎓 Pursuing **B.Tech in Computer Science** at **Parul University**  
+- 👨‍💻 Check out my projects on [Portfolio](https://alokportfolio2.netlify.app/)  
+- 💬 Ask me about **Django, Flask, Python, Machine Learning**  
+- 📄 My detailed experiences: [Resume](https://drive.google.com/file/d/1unH54IMLlQX66wOkicF0jlQIgYG5hEF4/view?usp=drive_link)  
+- 📫 Reach me at **alokkushwaha881@gmail.com**  
+- ⚡ Fun fact: *I code better with coffee ☕ and good music 🎶*  
 
-- 🌱 I’m currently learning **NLP And DS in more depth**
+---
 
-- 👨‍💻 All of my projects are available at [https://alokportfolio2.netlify.app/](https://alokportfolio2.netlify.app/)
-
-- 💬 Ask me about **Django,Flask,Ml etc.**
-
-- 📫 How to reach me **alokkushwaha881@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1unH54IMLlQX66wOkicF0jlQIgYG5hEF4/view?usp=drive_link](https://drive.google.com/file/d/1unH54IMLlQX66wOkicF0jlQIgYG5hEF4/view?usp=drive_link)
-
-- ⚡ Fun fact **I really need more😅**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@alokkushwaha881" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@alokkushwaha881" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alokkushwaha5588/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alokkushwaha5588/" height="30" width="40" /></a>
-<a href="https://kaggle.com/alok77777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/alok77777" height="30" width="40" /></a>
-<a href="https://instagram.com/alok_kushwaha725" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alok_kushwaha725" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/alok77777/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/alok77777/" height="30" width="40" /></a>
+### 🌐 Connect with Me
+<p align="center">
+<a href="https://twitter.com/alokkushwaha881" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/alokkushwaha5588/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.kaggle.com/alok77777" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+<a href="https://leetcode.com/u/alok77777/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+<a href="https://instagram.com/alok_kushwaha725" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ak5588&show_icons=true&locale=en&layout=compact" alt="ak5588" /></p>
+### 🛠️ Languages & Tools
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,react,django,flask,tensorflow,opencv,mysql,mongodb,git,postman,figma" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ak5588&show_icons=true&locale=en" alt="ak5588" /></p>
+---
+
+### 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ak5588&theme=radical&row=2&column=3" alt="trophies" />
+</p>
+
+---
+
+### 📊 GitHub Stats & Activity
+<div align="center" style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ak5588&show_icons=true&theme=radical" alt="stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ak5588&layout=compact&theme=radical" alt="langs" height="150"/>
+</div>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ak5588&theme=radical&hide_border=true" alt="streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ak5588&theme=radical&hide_border=true" alt="activity graph"/>
+</p>
+
+---
+
+### 🚀 Journey So Far
+- 🏆 Participated in **4+ Hackathons** (AI/ML & Backend Lead in most)  
+- 📚 Built **StudyBuddy** – an AI-powered learning platform (Summarizer, MCQ Generator, QnA)  
+- 🛠️ Currently interning at **FuelFlux** as an **AI/ML Developer**, building AI dashboards  
+- 🎯 Aspiring to become a **skilled AI/ML Engineer** contributing to impactful projects  
+
+---
+
+✨ *"Code, Learn, Build, Repeat – that's how I grow."* ✨  
